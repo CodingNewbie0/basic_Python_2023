@@ -24,7 +24,7 @@ print(sum)
 arr1 = [1,2,3]
 arr2 = [1.1,2.2,3.3]
 arr3 = ['Hello', 13, 'World!', True]
-print(arr3)
+print(arr3);
 print(type(arr3))
 
 arr4 = [] # 빈 리스트
