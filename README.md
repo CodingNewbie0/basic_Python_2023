@@ -90,7 +90,9 @@ print(f"파이는 {pi:10.2f}입니다.") # 파이는         3.14입니다.
     - 윈폼 개발(GUI)
     - 응용 학습
 
-![실행화면]()
+![실행화면](https://github.com/CodingNewbie0/studyPython2023/blob/main/Images/jupyter_folium.png?raw=true)
+
+실행화면
 
 ## 9일차
 1. 파이썬 응용
