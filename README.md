@@ -105,7 +105,14 @@ OpenAPI 연동화면
 ## 10일차
 1. 파이썬 응용
     - GUI 개발
-        -PyQt 위젯 계속
+        - PyQt 위젯 계속
+        - PyQt 다이얼로그
+
+![실행화면](https://github.com/CodingNewbie0/studyPython2023/blob/main/Images/zo2)
+![실행화면](https://github.com/CodingNewbie0/studyPython2023/blob/main/Images/dialog1)
+![실행화면](https://github.com/CodingNewbie0/studyPython2023/blob/main/Images/dialog2)
+
+다이얼로그 실행화면
 
 
 
