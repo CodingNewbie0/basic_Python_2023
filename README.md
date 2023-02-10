@@ -108,9 +108,8 @@ OpenAPI 연동화면
         - PyQt 위젯 계속
         - PyQt 다이얼로그
 
-![실행화면](https://github.com/CodingNewbie0/studyPython2023/blob/main/Images/zo2)
-![실행화면](https://github.com/CodingNewbie0/studyPython2023/blob/main/Images/dialog1)
-![실행화면](https://github.com/CodingNewbie0/studyPython2023/blob/main/Images/dialog2)
+![실행화면](https://raw.githubusercontent.com/CodingNewbie0/studyPython2023/d15d2035b942eabee84614333df9536b2b63970c/Images/dialog1.png)
+![실행화면](https://raw.githubusercontent.com/CodingNewbie0/studyPython2023/d15d2035b942eabee84614333df9536b2b63970c/Images/dialog2.png)
 
 다이얼로그 실행화면
 
